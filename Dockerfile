@@ -1,5 +1,5 @@
 # image name lzh/openstack-client
-FROM luckpenguin/openstackbase:kilo
+FROM luckpenugin/openstackbase:kilo
 
 MAINTAINER Zuhui Liu penguin_tux@live.com
 
